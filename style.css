@@ -35,20 +35,24 @@ nav div ul li {
 
 #categories .row .watch-cat {
     background-image: linear-gradient(to left, #FFD019, #FF9C35);
-    border-radius: 20px;
+    border-radius: 15px;
     padding: 10px 30px;
 }
 
 #categories .row .bag-cat {
     background-image: linear-gradient(to left, #FF1C75, #FF418C);
-    border-radius: 20px;
+    border-radius: 15px;
     padding: 10px 30px;
 }
 
 #categories .row .shoes-cat {
     background-image: linear-gradient(to left, #3F1CF9, #4289FF);
-    border-radius: 20px;
+    border-radius: 15px;
     padding: 10px 30px;
+}
+
+#categories .row img {
+    width: 130px;
 }
 
 #shoes .row .card,
